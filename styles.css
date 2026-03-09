@@ -65,6 +65,10 @@ body {
     width: 100%;
 }
 
+.main-box {
+    text-align: center;
+}
+
 .main-box h1 {
     font-size: 3.5rem;
     color: var(--primaria);
