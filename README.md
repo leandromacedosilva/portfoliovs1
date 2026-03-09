@@ -1,137 +1,51 @@
-🚀 Portfólio | Leandro Macedo Silva
-<p align="center">
+# 💻 Meu Portfólio Pessoal - v1.0
 
-Desenvolvedor Front-End focado na construção de interfaces web modernas, responsivas e funcionais.
+Este é o repositório do meu portfólio pessoal, desenvolvido para apresentar minha trajetória, projetos e habilidades como desenvolvedor Front-End. O design foi pensado para ser limpo, intuitivo e totalmente funcional.
 
-</p>
-👨‍💻 Sobre o Projeto
+---
 
-Este repositório contém o meu Portfólio Web, desenvolvido com o objetivo de apresentar minhas habilidades como desenvolvedor, meus projetos e minhas formas de contato.
+## 🚀 Demonstração
 
-O site possui uma navegação simples e intuitiva, permitindo que qualquer visitante conheça rapidamente meu trabalho e minhas competências na área de desenvolvimento web.
+Você pode visualizar o projeto online através do link abaixo:
+👉 **[Acesse meu Portfólio aqui](https://leandromacedosilva.github.io/portfoliovs1/)**
 
-🌐 Acesse meu GitHub
+---
 
-🔗 GitHub:
-https://github.com/leandromacedosilva
+## 🗺️ Estrutura do Site
 
-🧭 Navegação do Portfólio
+O site foi organizado para proporcionar uma navegação fluida através dos seguintes menus:
 
-O site possui um menu principal fixo no topo da página, contendo as seguintes seções:
+* **Início:** Apresentação principal com foto e título profissional.
+* **Sobre:** Um breve resumo sobre quem eu sou e minhas aspirações.
+* **Projetos:** Galeria com meus principais trabalhos desenvolvidos.
+* **Contatos:** Canais diretos para conversarmos sobre oportunidades ou parcerias.
 
-Menu	Descrição
-🏠 Início	Apresentação com foto, nome e profissão
-👤 Sobre	Informações sobre minha trajetória e habilidades
-💼 Projetos	Projetos desenvolvidos e demonstrados no portfólio
-📞 Contatos	Formas de entrar em contato comigo
-🏠 Seção Início
+---
 
-Na página inicial do portfólio o visitante encontra:
+## 🛠️ Tecnologias Utilizadas
 
-📸 Foto de apresentação
+Para a construção deste projeto, utilizei as tecnologias fundamentais da web:
 
-🧑 Nome: Leandro Macedo Silva
+* **HTML5:** Estruturação semântica do conteúdo.
+* **CSS3:** Estilização, layout responsivo e efeitos visuais.
+* **JavaScript:** Interatividade e dinamismo nos elementos da página.
 
-💻 Profissão: Front-End Developer
+---
 
-Essa seção funciona como uma introdução profissional, destacando minha área de atuação.
+## 👤 Sobre o Autor
 
-👤 Sobre Mim
+Olá! Eu sou o **Leandro Macedo Silva**. Atualmente focado no ecossistema Front-End, buscando criar interfaces que unam performance e uma excelente experiência de usuário.
 
-A seção Sobre Mim apresenta um resumo da minha trajetória na área de tecnologia e desenvolvimento web.
+* **GitHub:** [leandromacedosilva](https://github.com/leandromacedosilva)
+* **Repositório do Projeto:** [portfoliovs1](https://github.com/leandromacedosilva/portfoliovs1)
 
-Inclui:
+---
 
-Experiência com desenvolvimento Front-End
+## 📝 Como rodar o projeto localmente
 
-Interesse em tecnologias web modernas
-
-Evolução constante em programação
-
-Construção de projetos práticos para aprimoramento técnico
-
-💼 Projetos
-
-Nesta seção estão alguns dos projetos que desenvolvi, demonstrando habilidades como:
-
-Estruturação de páginas com HTML5
-
-Estilização moderna com CSS3
-
-Interatividade utilizando JavaScript
-
-Construção de aplicações e sistemas web
-
-Os projetos apresentados servem como demonstração prática das minhas competências.
-
-📞 Contato
-
-Caso queira entrar em contato, você pode me encontrar através do meu GitHub:
-
-🔗 GitHub:
-https://github.com/leandromacedosilva
-
-Em breve também serão adicionadas outras formas de contato profissional.
-
-🛠️ Tecnologias Utilizadas
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </p>
-
-Essas tecnologias foram utilizadas para construir toda a estrutura, layout e funcionalidades do portfólio.
-
-📁 Estrutura do Projeto
-portfolio/
-│
-├── index.html
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── img/
-│   └── foto-perfil.png
-│
-└── README.md
-🎯 Objetivo do Projeto
-
-Este projeto foi criado com os seguintes objetivos:
-
-Demonstrar minhas habilidades em Desenvolvimento Front-End
-
-Apresentar projetos práticos
-
-Servir como portfólio profissional
-
-Centralizar minhas experiências e trabalhos
-
-📈 Evolução do Projeto
-
-Este portfólio continuará evoluindo com:
-
-Novos projetos
-
-Melhorias visuais
-
-Implementação de novas tecnologias
-
-Aprimoramento de interface e experiência do usuário
-
-👨‍💻 Autor
-
-Leandro Macedo Silva
-💻 Front-End Developer
-
-🔗 GitHub
-https://github.com/leandromacedosilva
-
-⭐ Apoie o Projeto
-
-Se você gostou deste projeto, considere:
-
-⭐ Dar uma estrela no repositório
-🔁 Compartilhar com outros desenvolvedores
-
-💡 “A prática constante é o caminho para a excelência no desenvolvimento de software.”
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/leandromacedosilva/portfoliovs1.git](https://github.com/leandromacedosilva/portfoliovs1.git)
 
 ........................................................
 # portfoliovs1
