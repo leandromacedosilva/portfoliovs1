@@ -172,6 +172,10 @@ body {
     object-fit: cover;
 }
 
+.caixa-textos-projeto {
+    padding: 1.5rem;
+}
+
 .paragrafo-projetos {
     color: rgba(226, 232, 240, 0.8);
     line-height: 1.25rem;
