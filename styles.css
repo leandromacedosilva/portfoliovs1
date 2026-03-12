@@ -182,6 +182,19 @@ body {
     line-height: 1.25rem;
 }
 
+.p-link a {
+    text-decoration: none;
+    color: var(--claro);
+    cursor: pointer;
+
+    transition: color .5s ease;
+}
+
+.p-link a:hover {
+    color: #c6cf9b;
+}
+
+
 .info-projetos {
     margin-bottom: 5px;
 }
